@@ -1,0 +1,15 @@
+{
+  "name": "rsh",
+  "version": 1,
+  "alias": "rsh",
+  "dotenv": ".env.production",
+  "build": {
+    "env": {
+      "NPM_TOKEN": "@npm-token"
+    }
+  },
+  "engines": {
+    "node": "10.15.1"
+  },
+  "type": "docker"
+}
