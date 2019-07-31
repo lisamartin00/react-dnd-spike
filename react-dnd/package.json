@@ -32,9 +32,9 @@
   "dependencies": {
     "@emotion/core": "10.0.7",
     "@gloojs/bass-ui": "1.0.9",
-    "@gloojs/next-express": "1.0.2",
     "@gloojs/material-ui-components": "1.0.0",
     "@gloojs/material-ui-theme": "1.0.0",
+    "@gloojs/next-express": "1.0.2",
     "@gloojs/next-lib": "1.5.0",
     "@gloojs/ui-components": "1.2.0",
     "@material-ui/core": "4.1.1",
@@ -52,6 +52,7 @@
     "next-images": "1.0.1",
     "prop-types": "15.6.2",
     "react": "16.8.4",
+    "react-dnd": "9.3.2",
     "react-dom": "16.8.4",
     "winston": "3.1.0"
   },
