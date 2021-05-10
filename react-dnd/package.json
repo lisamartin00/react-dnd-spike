@@ -47,7 +47,7 @@
     "express": "4.16.4",
     "express-robots-txt": "0.4.0",
     "hoist-non-react-statics": "3.0.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "next": "9.0.0",
     "next-images": "1.0.1",
     "prop-types": "15.6.2",
